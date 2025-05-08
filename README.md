@@ -29,10 +29,13 @@ kayne.coulter@enron.com
 rhonda.denton@enron.com
 don.baughman@enron.com
 
-Key Insights and Recommendations
-Employee Sentiment: The majority of messages reflect a positive sentiment, suggesting overall satisfaction. However, the presence of negative sentiment indicates areas for improvement in employee engagement.
+Key Insights and Recommendations Employee Sentiment: 
+The majority of messages reflect a positive sentiment, suggesting overall satisfaction. However, the presence of negative sentiment indicates areas for improvement in employee engagement.
+
 Top Employees: The top positive employees are highly engaged, while the negative employees should be closely monitored for potential disengagement or dissatisfaction.
+
 Flight Risk Identification: The flight risk analysis provides a valuable list of employees who may be at risk of leaving, based on their negative engagement. Targeted interventions could be beneficial to address their concerns and improve retention.
+
 Model Performance: The linear regression model, though useful for basic analysis, could benefit from improvements in predictive accuracy. Exploring more advanced models such as Random Forest or Gradient Boosting may provide better results.
 
 Conclusion
